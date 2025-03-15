@@ -1,6 +1,2 @@
-# first-pro
-This is my first git project
-<br>
-Author : Ajay Sagar
-<br>
-From : Ghat boral
+let a = 10;
+console.log(a);
